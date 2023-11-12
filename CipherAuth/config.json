@@ -1,8 +1,8 @@
 {
     "users": ["1136808697763467324", "1153469966385950730", "1161958898320822292","945139975643627560","863397266067685386","1039619864286986270","741211030427926629","1068176714573811765","999762981212672091","1073726300902142032","924313118723682354","828705072066199594"],
-    "token": ".GtR77v.NTeaGspTCcjCyNbUqCBLUGIXnRumV3hQqsELIY",
-    "secret": "",
-    "id": "",
+    "token": "MTE3MzI2Mzc0OTM5NDc0MzMxMA.GjXDXO.UPl2gNVPtYkUewW7nd7UYtZtfQxfZopteNGQBQ",
+    "secret": "jMmnp7KMH_0LM7e7nqycoMAsINCjFDvP",
+    "id": "1173263749394743310",
     "redirect": "http://127.0.0.1:5000/done",
     "api_endpoint": "https://canary.discordapp.com/api/v7",
     "auth_url" : "https://discord.com/api/oauth2/authorize?client_id=1164520468179599494&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fdone&response_type=code&scope=identify%20guilds.join",
